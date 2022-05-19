@@ -14,7 +14,7 @@ Demo Dashboard with Angular
 
 Use powershell or cmd and type by order, please see below.
 
-- `git clone https://github.com/kantinanm/osm-dashboard`
+- `git clone https://github.com/kantinanm/gis-tutorial-frontend`
 - `cd gis-tutorial-frontend`
 - > install package dependency in this project.
   > `npm install`
